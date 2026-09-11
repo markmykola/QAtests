@@ -1,4 +1,4 @@
-##Hotel Search Platform - Automated UI Tests
+#Hotel Search Platform - Automated UI Tests
 
 This project contains automated UI test cases for the hotel booking platform's frontend, focusing on guest selection limits, filter interactions, and API request interception. The automation framework is built using Playwright and JavaScript/Node.js.
 
