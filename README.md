@@ -47,3 +47,16 @@ Pets Filter Options: Navigates to the extended filters and iterates through spec
 
 Filters Affect Request: Utilizes Playwright's network interception (waitForRequest) to validate that applying a UI filter (like "Free cancellation") properly formats and updates the backend API request URL parameters.
 
+### Here is a basic package.json you can use:
+```json
+{
+  "name": "qa-automation-task",
+  "version": "1.0.0",
+  "description": "UI Automation tests for hotel search",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0"
+  }
+}
