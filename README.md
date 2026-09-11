@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed on your local machine:
    ```bash
    npx playwright install
 
-##Running the Tests
+## Running the Tests
 
 Playwright offers several ways to execute the test suite depending on your needs. Run these commands in your terminal:
 
@@ -37,4 +37,5 @@ Playwright offers several ways to execute the test suite depending on your needs
   ```bash
   npx playwright test --ui
   ```
+
 
